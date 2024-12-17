@@ -20,7 +20,7 @@ To run the chatbot locally, you need to have the following:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/medical-chatbot.git
+    git clone https://github.com/SaiAryan1784/medical-chatbot.git
     cd medical-chatbot
     ```
 
@@ -59,7 +59,7 @@ To run the chatbot:
 
 2. The Gradio interface will be launched locally, and you can interact with the chatbot through your browser.
 
-3. Open your browser and go to `http://localhost:7860` to start chatting with the medical chatbot.
+3. Open your browser and go to `http://127.0.0.1:7860` to start chatting with the medical chatbot.
 
 ## Example Interaction
 
